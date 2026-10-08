@@ -16,6 +16,7 @@ def proyekt1():
         print("Overweight")
     else:
         print("Obese")
+    print(f"BMI = {Bmi}")
 
 
 
@@ -53,7 +54,7 @@ def proyekt3():
 
 while True:
     print("\n MENU")
-    print("1-Proje 1")
+    print("1-BMI CALCULATOR")
     print("2-ZodiacCalculator")
     print("3-Birthday Finder")
     print("0-Exit")
